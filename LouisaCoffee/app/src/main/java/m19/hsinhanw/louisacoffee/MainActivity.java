@@ -24,6 +24,15 @@ public class MainActivity extends AppCompatActivity {
         int gallery[] = {R.drawable.image1, R.drawable.image2, R.drawable.image3, R.drawable.image4};
         animate(imgGallery, gallery, 0, true);
 
+        TextView phone = (TextView)findViewById(R.id.phone);
+        phone.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Uri callIntentUri = Uri.parse("tel:"+getResources().getString(R.string.phone));
+                Intent callIntent = new Intent(Intent.ACTION_CALL, callIntentUri);
+                startActivity(callIntent);
+            }
+        });
 
         TextView location = (TextView)findViewById(R.id.address);
         location.setOnClickListener(new View.OnClickListener(){
