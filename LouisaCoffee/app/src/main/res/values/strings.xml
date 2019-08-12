@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Louisa Coffee</string>
+    <string name="location">1F, No. 188, Chenggong Rd., Neihu Dist., Taipei 114, Taiwan</string>
+    <string name="gmapValue">geo:25.0843879,121.5946389?q=louisa+coffee+neihu+citylink</string>
+    <string name="openinghours">Sun-Thu    0730-2130, Fri-Sat    0730-2200</string>
+    <string name="phone">+886 2 8791 7331</string>
+    <string name="introduction">Our Ambition is to make the finest specialty coffee. We provide every coffee lover with a cup of personalized and delicious coffee. All the coffee beans are hand-baked by Louisa\'s professional baking peasers and baked in person to ensure the most important freshness of the coffee beans, which are handed to the customers by professional barters.</string>
+    <string name="contact"></string>
+</resources>
