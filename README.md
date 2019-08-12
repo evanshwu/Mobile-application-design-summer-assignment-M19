@@ -6,7 +6,7 @@ This repository is an Android application for the summer assignment at CMU-SV, F
 
 This single-page application is based on a chain coffee shop in my country, Taiwan. Louisa Coffee provide a great place for coffee lovers, with a variety selection of meal.
 
-### Preparing for programming the board
+### How to use this project
 
 You can either clone this project or download by zip. Import this project into Android studio by selecting the *Louisa Coffee* folder.
 
@@ -14,9 +14,9 @@ The minimum requirement for this application is Android 6.0.
 
 ### Features
 
-- **Auto change ImageView gallery**
+- **Auto change ImageView gallery:**
 An auto-changable ImageView gallery that displays multiple image overtime.
--  **Navigate and call with one tap**
+-  **Navigate and call with one tap:**
 Pull up Google Map easily by just tapping on the address or phone number.
 
 
