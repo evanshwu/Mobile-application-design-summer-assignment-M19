@@ -3,8 +3,7 @@
     package="m19.hsinhanw.louisacoffee">
 
     <uses-permission
-        android:name="android.permission.CALL_PHONE"
-        android:requiredFeature="true" />
+        android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
