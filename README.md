@@ -18,7 +18,8 @@ The minimum requirement for this application is Android 6.0.
 An auto-changable ImageView gallery that displays multiple image overtime.
 -  **Navigate and call with one tap:**
 Pull up Google Map easily by just tapping on the address or phone number.
-
+- **Supports multiple resolutions as well as rotation**
+You can still use the application with different devices and even on portrait view!
 
 ### Creadits
 
